@@ -1,0 +1,5 @@
+A pasta useCases será responsável por alrmazenar todas as classes contendo as funcionalidades da app;
+
+Na pasta repository são definidas Interfaces contendo todas as regras de funcionamentos das fucnionalidades;
+
+A pasta provider está reservada à métodos de contacto com  API´s externas;
